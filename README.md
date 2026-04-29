@@ -7,7 +7,8 @@ The system processes medical reports (images or PDFs), extracts text using EasyO
 
 
 
-🚀 Features
+🚀 Features : 
+
 📄 Upload medical report (image/PDF)
 🔍 Extract text using EasyOCR
 🧠 Analyze important medical parameters (e.g., WBC, Bilirubin, etc.)
@@ -17,7 +18,8 @@ The system processes medical reports (images or PDFs), extracts text using EasyO
 
 
 
-🛠️ Tech Stack
+🛠️ Tech Stack :
+
 Python
 EasyOCR
 NumPy / Pandas
