@@ -5,6 +5,8 @@ HealthScan AI is an intelligent medical report analysis system that leverages OC
 
 The system processes medical reports (images or PDFs), extracts text using EasyOCR, and then applies NLP techniques to understand medical terminology, identify key health parameters, and interpret contextual information. It analyzes important metrics such as WBC, Hemoglobin, and Bilirubin to detect abnormalities and generate insightful recommendations for better health understanding.
 
+
+
 🚀 Features
 📄 Upload medical report (image/PDF)
 🔍 Extract text using EasyOCR
@@ -12,6 +14,9 @@ The system processes medical reports (images or PDFs), extracts text using EasyO
 ⚠️ Detect abnormal values
 💡 Provide health suggestions based on extracted data
 🖥️ Simple and user-friendly interface
+
+
+
 🛠️ Tech Stack
 Python
 EasyOCR
