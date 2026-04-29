@@ -9,20 +9,20 @@ The system processes medical reports (images or PDFs), extracts text using EasyO
 
 🚀 Features : 
 
-📄 Upload medical report (image/PDF)
-🔍 Extract text using EasyOCR
-🧠 Analyze important medical parameters (e.g., WBC, Bilirubin, etc.)
-⚠️ Detect abnormal values
-💡 Provide health suggestions based on extracted data
-🖥️ Simple and user-friendly interface
+📄 Upload medical report (image/PDF), 
+🔍 Extract text using EasyOCR, 
+🧠 Analyze important medical parameters (e.g., WBC, Bilirubin, etc.), 
+⚠️ Detect abnormal values, 
+💡 Provide health suggestions based on extracted data, 
+🖥️ Simple and user-friendly interface, 
 
 
 
 🛠️ Tech Stack :
 
-Python
-EasyOCR
-NumPy / Pandas
-Flask / Streamlit (depending on what you used)
-Machine Learning (basic rule-based logic)
+Python, 
+EasyOCR,
+NumPy / Pandas,
+Flask / Streamlit (depending on what you used),
+Machine Learning (basic rule-based logic),
 Natural Language Processing
